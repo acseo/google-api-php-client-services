@@ -1,5 +1,5 @@
 {
-    "name": "acseo/apiclient-services",
+    "name": "google/apiclient-services",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
